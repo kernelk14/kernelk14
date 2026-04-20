@@ -1,10 +1,8 @@
-## Hello!!
+# The art of nonsense.
 
-### I'm Khyle, a.k.a [kernelk14](https://gitlab.com/kernelk14)!
+### I'm Khyle, a.k.a [kernelk14](https://gitlab.com/kernelk14).
 
-## Check out my latest project [here](https://github.com/kernelk14/slug)!
-
-## Feel free to contribute to my projects!!
+## All of my nonsense [here](https://github.com/kernelk14/slug).
 <!--
 **kernelk14/kernelk14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
