@@ -2,7 +2,7 @@
 
 ### I'm Khyle, a.k.a [kernelk14](https://gitlab.com/kernelk14).
 
-## All of my nonsense [here](https://github.com/kernelk14/slug).
+## My last nonsense thing [here](https://github.com/kernelk14/slug).
 <!--
 **kernelk14/kernelk14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
